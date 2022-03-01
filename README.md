@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN stack (React & React Native)**
 
-- 📫 How to reach me ****
+- 📫 How to reach me **faizrasyid456@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
