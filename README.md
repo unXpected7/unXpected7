@@ -6,6 +6,8 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/79519e7a1fbbca74a64cced28d94067bfea754648f5a41487397b47d888b4cf8/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d687474702533412532462532466d656469612e67697068792e636f6d2532466d656469612532464354583069765351624937384125324667697068792e67696626663d31266e6f66623d31"/>
 
 - 🌱 I’m currently learning **Golang and Rust**
+- 🌱 I’m currently learning **Kafka and RabbitMQ**
+- 🌱 I’m currently learning **PowerBI and Tableau**
 
 - 📫 How to reach me ***
 
