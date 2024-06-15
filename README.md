@@ -39,10 +39,7 @@
 
 ### About Me 👨🏻
 
-- 👨🏻‍💼 My name is `Taufik Hidayat`
-- 🏠 Live in `Bandung, Indonesia`
-- 👶🏻 Born in `Majalengka, April 1st 2002`
-- 🧍🏻‍♂️ `22` years old
+
 - 💻 `Computer Science` Student at `Universitas Bale Bandung`
 - 🌟 Currently, `Golang`, `Rust`, and `TypeScript` are my favorite tech.
 - 🌏 Languages
