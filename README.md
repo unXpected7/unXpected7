@@ -15,11 +15,9 @@
 ### About Me 👨🏻
 
 
-- 💻 `Computer Science` Student at `Universitas Bale Bandung`
 - 🌟 Currently, `Golang`, `Rust`, and `TypeScript` are my favorite tech.
 - 🌏 Languages
   - 🇮🇩 Indonesian
-  - 🇮🇩 Sundanese
   - 🇬🇧 English
 <!-- - ~~👨🏻‍💻 MN3 Stack Developer (`MongoDB`, `Nest.js`, `Next.js`, `Node.js`)~~
 - 👨🏻‍💻 PNG Stack Developer (`PostgreSQL`, `Next.js`, `Gin`) -->
@@ -48,19 +46,6 @@
 
 [![My Devops Skills](https://skillicons.dev/icons?i=docker,githubactions,nginx,linux)](https://skillicons.dev)
 
-### Equipment 🧰
-
-- `Laptop` - Lenovo Ideapad Slim 3
-  - `CPU` - AMD Ryzen 3 5300U
-  - `RAM` - 12GB DDR4 3200MHz
-  - `GPU` - AMD Vega 6
-  - `Operating System` - GNU/Linux
-    - `Distro` - EndeavourOS
-    - `Kernel` - 6.8
-    - `WM` - Hyprland
-- `Text Editor` - Neovim (LazyVim), VSCodium
-- `Browser` - LibreWolf, Brave
-- `Terminal` - Foot Terminal
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
