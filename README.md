@@ -10,9 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/akmal-tezar-a0379b235" target="_blank" rel="noreferrer" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akmal-tezar-a0379b235" height="30" width="40" /></a>
-<a href="https://instagram.com/akmal_tezzar"target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akmal_tezzar" height="30" width="40" /></a>
-<a href="https://www.facebook.com/akmal.tezar.7" target="_blank" rel="noreferrer"><img align="center" src="https://www.freeiconspng.com/uploads/facebook-transparent-logo-png-0.png" alt="akmal_tezzar" height="40" width="40" /></a>
+<!-- <a href="https://www.linkedin.com/in/akmal-tezar-a0379b235" target="_blank" rel="noreferrer" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akmal-tezar-a0379b235" height="30" width="40" /></a> -->
+<!-- <a href="https://instagram.com/akmal_tezzar"target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akmal_tezzar" height="30" width="40" /></a> -->
+<!-- <a href="https://www.facebook.com/akmal.tezar.7" target="_blank" rel="noreferrer"><img align="center" src="https://www.freeiconspng.com/uploads/facebook-transparent-logo-png-0.png" alt="akmal_tezzar" height="40" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
