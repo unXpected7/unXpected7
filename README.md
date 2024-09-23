@@ -1,12 +1,12 @@
 
 [![@akmaltezar's Holopin board](https://holopin.me/akmaltezar)](https://holopin.io/@akmaltezar)
-<h1 align="center">Hi 👋, I'm Akmal Tezar</h1>
+<h1 align="center">Hi 👋, Faiz Rasyid</h1>
 <img align="right" alt="Technology" width="300" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.giphy.com%2Fmedia%2FCTX0ivSQbI78A%2Fgiphy.gif&f=1&nofb=1">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akmaltezar&label=Profile%20views&color=0e75b6&style=flat" alt="akmaltezar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=unXpected7&label=Profile%20views&color=0e75b6&style=flat" alt="faiz rasyid" /> </p>
 
-- 📫 How to reach me **akmaltezar007@gmail.com**
+- 📫 How to reach me **faizrasyid456@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
