@@ -23,4 +23,4 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fgit-icon-logo-png-transparent.png" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akmaltezar&show_icons=true&locale=en" alt="akmaltezar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unXpected7&show_icons=true&locale=en" alt="faiz rasyid" /></p>
