@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Faiz Rasyid</h1>
 <h3 align="center">A Senior Full stack Developer</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=unxpected7&label=Profile%20views&color=0e75b6&style=flat" alt="unxpected7" /> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=unxpected7&label=Profile%20views&color=0e75b6&style=flat" alt="unxpected7" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unxpected7" alt="unxpected7" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unxpected7" alt="unxpected7" /></a> </p>  -->
 
 - 🔭 I’m currently working on [CCN SINGAPORE AIRLINES](www.siacargo..com)
 
