@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unxpected7" alt="unxpected7" /></a> </p>  -->
 
-- 🔭 I’m currently working on [CCN SINGAPORE AIRLINES](www.siacargo..com)
+- 🔭 I’m recently working on [CCN SINGAPORE AIRLINES](www.siacargo..com)
 
 - 🌱 I’m currently learning **AI , ML & Web 3**
 
