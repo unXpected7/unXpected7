@@ -44,6 +44,8 @@ I'm a Senior Full-Stack Developer with a knack for building efficient, scalable 
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
 
 #### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
@@ -54,9 +56,14 @@ I'm a Senior Full-Stack Developer with a knack for building efficient, scalable 
 #### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoftazure)
+![Azure AKS](https://img.shields.io/badge/-Azure%20AKS-0078D4?style=flat-square&logo=microsoftazure)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
+![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat-square&logo=aws-lambda)
+![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat-square&logo=amazonaws)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash)
 
 #### Others
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
@@ -68,7 +75,7 @@ I'm a Senior Full-Stack Developer with a knack for building efficient, scalable 
 
 ### 🚀 Featured Projects
 - **[CCN Cubeforall](https://cubeforall.com)**: A platform for streamlined logistics and collaboration. Built with Node.js, React, and MongoDB.
-- **[Singapore Airlines Integration](https://www.siacargo.com)**: Developed scalable backend services using NestJS and AWS for air cargo operations.
+- **[Singapore Airlines Integration](https://www.siacargo.com)**: Developed scalable backend services using NestJS, AWS Lambda, and AWS EC2 for air cargo operations.
 - **[Personal Portfolio](https://faizrasyid.xyz)**: My personal website showcasing projects and articles, built with Next.js and Tailwind CSS.
 
 *Explore more on [GitHub](https://github.com/unxpected7) or [faizrasyid.xyz](https://faizrasyid.xyz)!*
@@ -88,7 +95,7 @@ I'm a Senior Full-Stack Developer with a knack for building efficient, scalable 
 
 ### 📝 Latest Articles
 - [Scaling MongoDB for High-Performance Queries](https://www.linkedin.com/in/faiz-rasyid-l16/)  
-- [Building Resilient APIs with NestJS](https://dev.to/faiz)  
+- [Building Resilient APIs with NestJS and AWS Lambda](https://dev.to/faiz)  
 *Check out more on [LinkedIn](https://www.linkedin.com/in/faiz-rasyid-l16/) or [Dev.to](https://dev.to/faiz)!*
 
 ---
