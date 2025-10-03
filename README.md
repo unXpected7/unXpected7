@@ -46,6 +46,26 @@ I'm a Senior Full-Stack Developer with a knack for building efficient, scalable 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+
+#### Smart Contracts
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity)
+![Foundry](https://img.shields.io/badge/-Foundry-000000?style=flat-square&logo=ethereum)
+![Rust (Solana)](https://img.shields.io/badge/-Rust%20(Solana)-000000?style=flat-square&logo=solana)
+
+#### Compute APIs
+![io.net](https://img.shields.io/badge/-io.net-000000?style=flat-square&logo=cloud)
+![Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=aws-lambda)
+![Aethir](https://img.shields.io/badge/-Aethir-0A0A0A?style=flat-square&logo=cloud)
+
+#### Bridging
+![Axelar](https://img.shields.io/badge/-Axelar-000000?style=flat-square&logo=blockchaindotcom)
+![LayerZero](https://img.shields.io/badge/-LayerZero-2B2D42?style=flat-square&logo=protocols)
+![Across](https://img.shields.io/badge/-Across-3B82F6?style=flat-square&logo=ethereum)
+
+#### Storage
+![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?style=flat-square&logo=ipfs)
+![Arweave](https://img.shields.io/badge/-Arweave-222222?style=flat-square&logo=arweave)
 
 #### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
@@ -66,7 +86,6 @@ I'm a Senior Full-Stack Developer with a knack for building efficient, scalable 
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash)
 
 #### Others
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
