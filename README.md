@@ -4,7 +4,7 @@
   <p>Passionate about crafting robust applications and exploring AI, ML, and Web3. Currently working with Singapore Airlines and contributing to innovative projects at CCN Cubeforall.</p>
 
   <a href="https://faizrasyid.my.id">
-    <img src="https://img.shields.io/badge/Portfolio-faizrasyid.xyz-blue?style=flat-square&logo=firefox" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-faizrasyid.my.id-blue?style=flat-square&logo=firefox" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/faiz-rasyid-l16/">
     <img src="https://img.shields.io/badge/LinkedIn-Faiz%20Rasyid-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
