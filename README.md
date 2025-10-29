@@ -97,7 +97,7 @@ I'm a Senior Full-Stack Developer with a knack for building efficient, scalable 
 - **[Singapore Airlines Integration](https://www.siacargo.com)**: Developed scalable backend services using NestJS, AWS Lambda, and AWS EC2 for air cargo operations.
 - **[Personal Portfolio](https://faizrasyid.xyz)**: My personal website showcasing projects and articles, built with Next.js and Tailwind CSS.
 
-*Explore more on [GitHub](https://github.com/unxpected7) or [faizrasyid.xyz](https://faizrasyid.xyz)!*
+*Explore more on [GitHub](https://github.com/unxpected7) or [faizrasyid..my.id](https://faizrasyid.my.id)!*
 
 ---
 
@@ -125,4 +125,5 @@ I'm a Senior Full-Stack Developer with a knack for building efficient, scalable 
   <a href="mailto:faizrasyid456@gmail.com">📧 Email</a> • 
   <a href="https://www.linkedin.com/in/faiz-rasyid-l16/">🔗 LinkedIn</a> • 
   <a href="https://dev.to/faiz">📚 Dev.to</a>
+  <a href="https://faizrasyid.my.id">📚 Portofolio Web</a>
 </div>
