@@ -3,7 +3,7 @@
   <h3>Senior Full-Stack Developer | Building Scalable Solutions 🚀</h3>
   <p>Passionate about crafting robust applications and exploring AI, ML, and Web3. Currently working with Singapore Airlines and contributing to innovative projects at CCN Cubeforall.</p>
 
-  <a href="https://faizrasyid.xyz">
+  <a href="https://faizrasyid.my.id">
     <img src="https://img.shields.io/badge/Portfolio-faizrasyid.xyz-blue?style=flat-square&logo=firefox" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/faiz-rasyid-l16/">
@@ -97,7 +97,7 @@ I'm a Senior Full-Stack Developer with a knack for building efficient, scalable 
 - **[Singapore Airlines Integration](https://www.siacargo.com)**: Developed scalable backend services using NestJS, AWS Lambda, and AWS EC2 for air cargo operations.
 - **[Personal Portfolio](https://faizrasyid.xyz)**: My personal website showcasing projects and articles, built with Next.js and Tailwind CSS.
 
-*Explore more on [GitHub](https://github.com/unxpected7) or [faizrasyid..my.id](https://faizrasyid.my.id)!*
+*Explore more on [GitHub](https://github.com/unxpected7) or [faizrasyid.my.id](https://faizrasyid.my.id)!*
 
 ---
 
@@ -115,7 +115,7 @@ I'm a Senior Full-Stack Developer with a knack for building efficient, scalable 
 ### 📝 Latest Articles
 - [Scaling MongoDB for High-Performance Queries](https://www.linkedin.com/in/faiz-rasyid-l16/)  
 - [Building Resilient APIs with NestJS and AWS Lambda](https://dev.to/faiz)  
-*Check out more on [LinkedIn](https://www.linkedin.com/in/faiz-rasyid-l16/) or [Dev.to](https://dev.to/faiz)!*
+*Check out more on [LinkedIn](https://www.linkedin.com/in/faiz-rasyid-l16/) or [Dev.to](https://dev.to/faiz)! or [Faiz Rasyid](https://faizrasyid.my.id)*
 
 ---
 
@@ -125,5 +125,5 @@ I'm a Senior Full-Stack Developer with a knack for building efficient, scalable 
   <a href="mailto:faizrasyid456@gmail.com">📧 Email</a> • 
   <a href="https://www.linkedin.com/in/faiz-rasyid-l16/">🔗 LinkedIn</a> • 
   <a href="https://dev.to/faiz">📚 Dev.to</a>
-  <a href="https://faizrasyid.my.id">📚 Portofolio Web</a>
+  <a href="https://faizrasyid.my.id">🔗 Portofolio Web</a>
 </div>
